@@ -1,0 +1,89 @@
+*{
+	margin:0;
+	padding: 0;
+}
+body{
+	background: black;
+	height: 1000px;
+}
+p{
+	color:#b9b9b9;
+}
+span{
+	float: left;
+	position: relative;
+	top: 350px;
+
+}
+.home{
+	padding: 5px;
+	background: #fd8300;
+	color: #fff;
+	border-radius: 4px;
+	margin: 4px;
+}
+.log{
+	padding: 5px;
+	background: #fd8300;
+	color: #fff;
+	border-radius: 4px;
+	margin: 4px;
+}
+.article{
+	padding: 5px;
+	background: #fd8300;
+	color: #fff;
+	border-radius: 4px;
+	margin: 4px;
+
+}
+.face{
+	margin: 6px;
+	padding: 6px;
+	position: relative;
+	top: 40px;
+}
+.twiter{
+	margin: 6px;
+	padding: 6px;
+	position: relative;
+	top: 80px;
+	left: 105px;
+
+}
+.photo{
+	position: absolute;
+	top: 40px;
+	left: 450px;
+}
+div{
+	padding: 15px;
+	width: 300px;
+	margin: 20px;
+	float: left;	
+	
+}
+h2{
+	color:#fff;
+	padding: 15px;
+}
+.skate{
+	position: relative;
+    left: 20px;
+    top: 350px;
+}
+.espn{
+	position: relative;
+    left: 20px;
+    top: 350px;
+}
+.one{
+	position: relative;
+    left: 20px;
+    top: 400px;
+}
+.two{
+	position: relative;
+    left: 20px;
+    top: 400px;
+}
